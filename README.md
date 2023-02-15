@@ -1,2 +1,2 @@
 # AutoKeras_PCB_defects_detection
-使用AutoKeras進行PCB瑕疵偵測，持續調整中
+使用AutoKeras進行PCB瑕疵偵測
